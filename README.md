@@ -9,3 +9,5 @@
 [assignment week 6](https://github.com/YKiffen/assignments/blob/master/assignment4(1)-checkpoint.ipynb)
 
 [assignment week 8](https://github.com/YKiffen/assignments/blob/master/assignment5-checkpoint.ipynb) 
+
+[final assignment python](https://github.com/YKiffen/assignments/blob/master/Final_Assignment_Python_1_students-checkpoint.ipynb)
