@@ -10,4 +10,6 @@
 
 [assignment week 8](https://github.com/YKiffen/assignments/blob/master/assignment5-checkpoint.ipynb) 
 
-[final assignment python](https://github.com/YKiffen/assignments/blob/master/Final_Assignment_Python_1_students-checkpoint.ipynb)
+[final python assignment](https://github.com/YKiffen/assignments/blob/master/Final_Assignment_Python_1_students-checkpoint.ipynb)
+
+[final R assignment](https://github.com/YKiffen/assignments/blob/master/OECD_R_exam-checkpoint.ipynb)
